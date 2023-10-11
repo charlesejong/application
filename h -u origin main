@@ -1,0 +1,30 @@
+[33mcommit 798757c57283b298f4fcd5a8ef3114aac3c052b8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 4326e1f 89c7e9a
+Author: Charles Ejong <ejongmejame@gmail.com>
+Date:   Tue Oct 10 11:47:13 2023 +0200
+
+    This is the changes I have made today
+
+[33mcommit 89c7e9aca2e7fbaf59a6c8a0beb3f25c26d7d1c9[m[33m ([m[1;32mfeatureA[m[33m)[m
+Author: Charles Ejong <ejongmejame@gmail.com>
+Date:   Mon Oct 9 21:48:03 2023 +0200
+
+    Added FileC
+
+[33mcommit b50f48757356ea54663f6de3eebb9ac5a17d907e[m
+Author: Charles Ejong <ejongmejame@gmail.com>
+Date:   Mon Oct 9 21:43:27 2023 +0200
+
+    these are my files
+
+[33mcommit 4326e1f6c5052ea83b2247677b577f5a3632773b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Charles Ejong <ejongmejame@gmail.com>
+Date:   Mon Oct 9 19:20:56 2023 +0200
+
+    Change made to fileA and FileB
+
+[33mcommit 1a1a1ee92b6a82455599624d191c19827d176939[m
+Author: Charles Ejong <ejongmejame@gmail.com>
+Date:   Mon Oct 9 18:44:14 2023 +0200
+
+    This is the initial commit
