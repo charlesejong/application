@@ -1,4 +1,6 @@
 This is FileB
+Let's make a change
+Making another change
 <<<<<<< HEAD
 This is a change to the FileB
 =======
