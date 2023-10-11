@@ -1,6 +1,7 @@
 This is FileB
 Let's make a change
 Making another change
+This is squash merge
 <<<<<<< HEAD
 This is a change to the FileB
 =======
